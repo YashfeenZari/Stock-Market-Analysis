@@ -5,7 +5,6 @@
   - Various Libraries such as Quantmod, Forecast and Anomaly Detection has been used
 
 ## Stock Market Analysis_Exploratory Data Analysis  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UcqbC2dXkg5jf5ZiNaVeUeaG-k9mTg0A?usp=sharing)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/123um4Yx5GgKxCENGJ-xRHnDvKykoKNM4)
 
 
@@ -25,7 +24,7 @@
     - Feed Foward Neural network
 
 ## Stock Prices Anomaly Detection  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i923pG09SlhpnZ_n_AckL2cLTmhYwHg6?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qxXRDmdqKAv7lYRumTXozo7INL_xZn78)
 
   - Used Business Science : Tidy anomaly detection
   - Techniques Used
