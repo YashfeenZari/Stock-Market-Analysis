@@ -1,5 +1,3 @@
-
-# Stock-Market-Analysis
 # GS-Stock-Market-Time-Series-Analysis
 
   - This is an Analysis on Goldman Sachs Group Inc Stock Market Time Series featuring Prices starting from 2016 to present date
@@ -7,7 +5,9 @@
   - Various Libraries such as Quantmod, Forecast and Anomaly Detection has been used
 
 ## Stock Market Analysis_Exploratory Data Analysis  
-[![Open In Colab](https://colab.research.google.com/drive/123um4Yx5GgKxCENGJ-xRHnDvKykoKNM4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UcqbC2dXkg5jf5ZiNaVeUeaG-k9mTg0A?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/123um4Yx5GgKxCENGJ-xRHnDvKykoKNM4)
+
 
   - GRAPH FOR High, low, Close, Adjusted, Volume OF EACH DAY OVER 2016 - TODAYS DATE
   - CHARTS FOR OVERALL STOCK ANALYSIS FOR EACH YEAR (2016-2020) featuring
